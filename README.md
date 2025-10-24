@@ -8,7 +8,6 @@ Here is a screenshot of the main dashboard:
 
 ![Zomato Dashboard Preview](dashboard-preview.png)
 
-*(Note: If you named your screenshot something different, change `dashboard-preview.png` to your file's name.)*
 
 ## 🚀 Key Features & Insights
 
@@ -26,7 +25,6 @@ This project uses the following data files:
 * `zomato_data.xlsx - Sheet1.csv`: The main dataset containing detailed restaurant information.
 * `zomato_data.xlsx - Sheet2.csv`: A lookup table for country codes.
 
-*(Optional: Add a sentence about where you got the data, e.g., "This dataset was sourced from Kaggle.")*
 
 ## 🛠️ Tools Used
 
